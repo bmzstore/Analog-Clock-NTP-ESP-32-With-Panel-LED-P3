@@ -8,8 +8,8 @@
 #include <font/bmz5x7.h>
 DS1307ESP rtc;
 
-char ssid[] = "bmzstore"; // Nama Wifi Anda
-char pass[] = "11223344"; // Password Wifi Anda
+char ssid[] = "xxxxxxxx"; // Nama Wifi Anda
+char pass[] = "xxxxxxxx"; // Password Wifi Anda
 #define TZ (+7*60*60) //Timezone
 
 uint8_t sdapin = 21, sclpin = 22; 
